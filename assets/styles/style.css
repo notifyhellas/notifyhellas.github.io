@@ -247,7 +247,7 @@ a {
   justify-content: center;
   align-items: center;
   background: #111111;
-  background-image: url(../features-bg.svg);
+  background-image: url(../features-bg.png);
   background-repeat: no-repeat;
   background-size: cover; }
 
@@ -270,7 +270,6 @@ a {
   line-height: 19px;
   /* or 158% */
   text-align: center;
-  color: #7b7b7b;
   width: 40%; }
 
 .yellow-line-card {
@@ -364,7 +363,6 @@ a {
   justify-content: center;
   align-items: center;
   background: #111111;
-  background-image: url(../faq-bg.svg);
   background-repeat: no-repeat;
   background-position: 0px 0px;
   background-size: cover;
@@ -487,7 +485,7 @@ a {
   background: #222222; }
 
 .footer-left {
-  margin-left: 10%;
+  margin-left: 20%;
   display: flex;
   flex-direction: row;
   align-items: center; }
