@@ -138,6 +138,8 @@ a {
     color: gold;
     border: 2px solid gold;
   }
+  .option-dashboard {
+    display: none; }
 
 @media only screen and (max-width: 1400px) {
   .landing-laptop {
@@ -166,6 +168,9 @@ a {
 
   .option {
     display: none; }
+
+    .option-dashboard {
+      display: block; }
 
   .mango-option {
     /* display: block; */
@@ -394,7 +399,9 @@ a {
   transition: 0.2s all ease-out 0s; }
 
 .faq-answer-wrapper {
-  transition: 1s all linear 0s; }
+  transition: 1s all linear 0s;
+ }
+  
 
 .faq-card:hover {
   background:  rgb(52, 128, 199); }
